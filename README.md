@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @jaoNeumann
-- 👀 I’m interested in learn more 🧠
-- 🌱 I’m currently learning javascript
+- 👀 I’m interested in learn more 🧠 
 - 📫 Reach me by email: jaopnb15@gmail.com
 
 <!---
