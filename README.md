@@ -1,4 +1,4 @@
-### Olá eu sou o João, Desenvolvedor Backend.
+### Olá eu sou o João, Desenvolvedor FullStack.
 
 - Estudando Python
 
