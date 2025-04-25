@@ -1,7 +1,6 @@
 ### Olá eu sou o João, Desenvolvedor FullStack.
 
-- Estudando Python
-
+### Tecnologias
 <div style="display: inline_block"><br>
   <img align="center" alt="Jp-NodeJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain-wordmark.svg">
   <img align="center" alt="Jp-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-plain-wordmark.svg">
@@ -17,10 +16,13 @@
 
 <br>
 
+### Atividade
+
 ![snake gif](https://github.com/jaoNeumann/jaoNeumann/blob/output/github-snake-dark.svg)
 
 <br>
 
+### Contatos
 <div> 
   <a href="https://www.linkedin.com/in/joao-neumann" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href = "mailto:jaopnb15@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
