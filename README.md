@@ -24,6 +24,5 @@
   
 </div>
 
-[Snake animation](https://github.com/jaoneumann/jaoNeumann/blob/output/github-contribution-grid-snake.svg)
-
+![snake gif](https://github.com/jaoNeumann/jaoNeumann/blob/output/github-snake-dark.svg)
 
