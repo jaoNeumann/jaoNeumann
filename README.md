@@ -12,6 +12,7 @@
   <img align="center" alt="Jp-Bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original-wordmark.svg">
   <img align="center" alt="Jp-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg">
   <img align="center" alt="Jp-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain-wordmark.svg">
+  <br>
   <a href="https://github.com/jaoNeumann/Certificados" target="_blank">Certificados</a>
 </div>
 
